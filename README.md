@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**BlyZeYT/BlyZeYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Leon** and I do Open-Source for fun. Just look around and I hope you will find something that you need **:)**
 
-Here are some ideas to get you started:
+### Social links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derechteblyzeee/)
+
+### Repository stats
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=blyzeyt&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blyzeyt&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
