@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/95288041/198907550-72e9bd78-246c-49fc-90de-d5b7d4486992.png" height="250"/>
+
 ### Hi there 👋
 
 My name is **Leon** and I do Open-Source for fun. Just look around and I hope you will find something that you need **:)**
