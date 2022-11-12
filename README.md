@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-My name is **Leon** and I do Open-Source for fun. You can find my repos also on NuGet - just search ***BlyZe***. I hope you will find something that you need **:)**
+My name is **Leon** and I do Open-Source for fun. You can find my repos also on NuGet - just search ***BlyZe***. I hope you will find something that you need and like **:)**
 
 ### Links
 
