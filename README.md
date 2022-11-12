@@ -7,6 +7,7 @@ My name is **Leon** and I do Open-Source for fun. You can find my repos also on 
 ### Social links
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derechteblyzeee/)
+[![Paypal]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=N9S3FT7EAV982)
 
 ### Repository stats
 
