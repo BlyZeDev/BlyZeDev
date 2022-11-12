@@ -1,6 +1,6 @@
 ![BlyZe](https://user-images.githubusercontent.com/95288041/198973742-97289725-4026-4202-bf6d-3c9068c54d56.svg)
 
-### Hi there 👋
+### Hello there 👋
 
 My name is **Leon** and I do Open-Source for fun. You can find my repos also on NuGet - just search ***BlyZe***. I hope you will find something that you need **:)**
 
