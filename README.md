@@ -12,6 +12,6 @@ My name is **Leon** and I do Open-Source for fun. You can find my repos also on 
 ### Repository stats
 
 <div>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=blyzeyt&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=blyzeyt&show_icons=true&theme=dracula">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blyzeyt&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=3">
 </div>
