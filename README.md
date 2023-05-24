@@ -6,7 +6,7 @@ My name is **Leon** and I do Open-Source for fun. I hope you will find something
 
 ## Links
 
-[![NuGet](https://img.shields.io/badge/NuGet-BlyZe-blue)](https://www.nuget.org/profiles/BlyZe)
+[![NuGet](https://img.shields.io/badge/NuGet-BlyZe-blue?style=for-the-badge&logo=appveyor)](https://www.nuget.org/profiles/BlyZe)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BlyZeHD)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derechteblyzeee/)
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=leonschimmel15@gmail.com)
