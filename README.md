@@ -2,7 +2,9 @@
 
 ### Hello there 👋
 
-My name is **Leon** and I do Open-Source for fun. I hope you will find something that you need and like **:)**
+My name is **Leon** and I do Open-Source for fun. I hope you will find something that you like **:)**
+
+![Metrics](https://metrics.lecoq.io/BlyZeDev?template=classic&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=1000&habits.days=1000&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FBerlin&config.twemoji=true&config.octicon=true)
 
 ## Links
 
@@ -11,10 +13,10 @@ My name is **Leon** and I do Open-Source for fun. I hope you will find something
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derechteblyzeee/)
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=N9S3FT7EAV982)
 
-## Stats
-
-<img align=center width=500 src="https://github-readme-stats.vercel.app/api?username=blyzeyt&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark">
-
 ## Languages
 
-<img align=center width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=blyzeyt&theme=github_dark&hide_title=true&layout=compact">
+<img align=center width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=blyzedev&theme=github_dark&hide_title=true&layout=compact">
+
+## Stats
+
+<img align=center width=500 src="https://github-readme-stats.vercel.app/api?username=blyzedev&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark">
