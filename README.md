@@ -13,8 +13,8 @@ My name is **Leon** and I do Open-Source for fun. I hope you will find something
 
 ## Languages
 
-<img align=center width=500 src="https://github-readme-stats-blyzedevs-projects.vercel.app/api/top-langs/?username=blyzedev&theme=github_dark&hide_title=true&layout=compact">
+<img align=center width=500 src="https://github-readme-stats-deploy-xi.vercel.app/api/top-langs/?username=blyzedev&theme=github_dark&hide_title=true&layout=compact">
 
 ## Stats
 
-<img align=center width=500 src="https://github-readme-stats-blyzedevs-projects.vercel.app/api?username=blyzedev&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark">
+<img align=center width=500 src="https://github-readme-stats-deploy-xi.vercel.app/api?username=blyzedev&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark">
