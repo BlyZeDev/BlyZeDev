@@ -1,8 +1,12 @@
 ![BlyZe](https://user-images.githubusercontent.com/95288041/198973742-97289725-4026-4202-bf6d-3c9068c54d56.svg)
 
-### Hello there 👋
+### Hey, I'm Leon - also known as BlyZe or BlyZeDev.
 
-My name is **Leon** and I do Open Source for fun. I hope you will find something that you like **:)**
+I'm a self-taught software developer who loves building fast, clean, and well-designed software. I mainly work with modern C# and .NET, creating open-source NuGet packages, WPF desktop applications, .NET MAUI apps, and terminal tools.
+
+I'm especially interested in performance, clean architecture, and understanding how things work under the hood. I enjoy solving unusual problems and building tools that are both practical and fun to use.
+
+One of my favorite projects is a Game Boy emulator that runs entirely inside the Windows Command Prompt, powered by my own console rendering engine.
 
 ## Links
 
