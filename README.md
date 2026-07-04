@@ -2,10 +2,11 @@
 
 ### Hello there 👋
 
-My name is **Leon** and I do Open-Source for fun. I hope you will find something that you like **:)**
+My name is **Leon** and I do Open Source for fun. I hope you will find something that you like **:)**
 
 ## Links
 
+[![Website](https://img.shields.io/badge/Website-blyze.dev-blue?style=for-the-badge&logo=firefoxbrowser)](https://www.blyze.dev/)
 [![NuGet](https://img.shields.io/badge/NuGet-BlyZe-blue?style=for-the-badge&logo=appveyor)](https://www.nuget.org/profiles/BlyZe)
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=leonschimmel15@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derechteblyzeee/)
